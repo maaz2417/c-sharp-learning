@@ -7,8 +7,8 @@
 #
 #
 #
-#33_constructors 
-#34_static 
+#
+#
 #35_overloaded constructors 
 #36_inheritance 
 #37_abstract classes 
