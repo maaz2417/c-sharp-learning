@@ -6,7 +6,7 @@
 #
 #
 #
-#32_objects 
+#
 #33_constructors 
 #34_static 
 #35_overloaded constructors 
