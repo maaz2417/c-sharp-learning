@@ -4,7 +4,7 @@
 # 
 # 
 #
-#30_multidimensional arrays 
+#
 #31_classes 
 #32_objects 
 #33_constructors 
